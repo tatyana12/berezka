@@ -7,7 +7,7 @@
     "background_color": "#edebe9",
     "display": "standalone",
     "scope": ".",
-    "start_url": "index.html?launcher=true",
+    "start_url": "https://tatyana12.github.io//berezka/Mobile/pwa/index.html",
 
     "icons": [
         {
