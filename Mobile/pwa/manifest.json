@@ -7,7 +7,7 @@
     "background_color": "#edebe9",
     "display": "standalone",
     "scope": ".",
-    "start_url": "index.html?images/icon=true",
+    "start_url": "index.html?launcher=true",
 
     "icons": [
         {
